@@ -1,0 +1,8 @@
+@font-face {
+    font-family: PersonifiedUX;
+    src: url(./fonts/PersonifiedUXRegular.ttf)
+}
+
+body {
+    background-color: white;
+}

@@ -1,0 +1,19 @@
+
+
+.Ask {
+    text-align: center;
+    color: white;
+    font-family: PersonifiedUX;
+}
+
+#main-title {
+    font-size: 5rem;
+    -webkit-text-fill-color: white; /* Will override color (regardless of order) */
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+}
+
+#gif {
+    margin-top: 10rem;
+    height: 10rem;
+}
